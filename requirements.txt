@@ -1,4 +1,6 @@
 pygame>=2.5
+numpy>=1.26
 pytest>=8.0
 black>=24.0
 ruff>=0.3
+pyinstaller>=6.0
